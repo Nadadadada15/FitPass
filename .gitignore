@@ -1,2 +1,7 @@
-
-
+*.json
+*.xml
+Dockerfile
+*.deb
+*.rpm
+fitpass.zip
+production.env
